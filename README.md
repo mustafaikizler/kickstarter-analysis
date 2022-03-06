@@ -82,7 +82,7 @@ May is the best month to launch a theater campaign because the success rate is o
 
 In the **plays** subcategory  $1000 to $5000, $35000 to $40000, and $40000 to $45000 provide the best results in terms of reaching to their goal dollar amount. However, according to our table, almost 75% of successful goals are between $1000 and $5000. There are several high gaol amount but their success rate is less than 50%.
 
-*, As a result,* if we want to maintain our success we should keep our goals $1000 to $5000 scale. however, improving the quality of the content from $40000 to $45000 would help us to gather more funds with fewer campaigns.
+*As a result* if we want to maintain our success we should keep our goals $1000 to $5000 scale. however, improving the quality of the content from $40000 to $45000 would help us to gather more funds with fewer campaigns.
 
 
 - What are some limitations of this dataset?
