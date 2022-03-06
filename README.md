@@ -13,10 +13,14 @@ The purpose of this analysis is to help Louise to predict her future campaigns, 
 Our Analysis is consist of 2 relations, the first one is goals vs outcomes, the second one is launch dates vs outcomes. firstly, To predict future campaigns goals we applied some statistical analysis and divided the goals into several goal levels and for the launch dates, we analyzed by months of the multiple years.
 
 Firstly we create a pivot table to see relations between launch months - outcome. According to the chart, we create Outcomes based on the launch date chart.
+
 ![Table_Theater_Outcomes_by_Launch_Date](https://user-images.githubusercontent.com/98247252/156906085-492fd9c2-8774-498d-8c36-6188a26c511b.png)
 
 
+
 Secondly, step is creating a pivot chart that contains outcomes and goals relation. With this information, we created Outcomes based on a goals chart.
+
+
 ![Outcomes_based_on_goals](https://user-images.githubusercontent.com/98247252/156906093-6b4e8990-6012-48d7-bb29-c6bf37b90caf.png)
 
 
@@ -38,6 +42,7 @@ The chart above contains multiple statistical calculations belonging to the goal
 In this chart, we tried to help to demonstrate how different mount of the year affected the success of *Theater* campaigns
 
 *X-Axis* shows 12 months of the year.
+
 *Y-Axis* shows overall numbers of successful, failed, and canceled *theater* campaigns between 2009 and 2017
 
 By gathering this data we tried to have a better understanding of the best month(s) of the year to launch campaigns in *theater* category 
@@ -51,6 +56,7 @@ By gathering this data we tried to have a better understanding of the best month
 This chart shows how campaign *plays* subcategory outcomes success are affected by its gaol. 
 
 *X Axis* Shows desired goal amounts from $0 to $50.000 into 12 pieces. (every 5000 steps).
+
 *Y-Axis* Shows successful, failed, and canceled *plays* percentages.
 
 By gathering this data we tried to have a better understanding of how*Plays* subcategory achieves its goals on different *goal* amounts.
