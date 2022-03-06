@@ -40,9 +40,7 @@ In this chart, we tried to help to demonstrate how different mount of the year a
 *X-Axis* shows 12 months of the year.
 *Y-Axis* shows overall numbers of successful, failed, and canceled *theater* campaigns between 2009 and 2017
 
-By gathering this data we tried to have a better understanding of the best month(s) of the year to launch campaigns in *theater* category
-
- are all year almost at the lowest points.
+By gathering this data we tried to have a better understanding of the best month(s) of the year to launch campaigns in *theater* category 
 
 
 ### Analysis of Outcomes Based on Goals
